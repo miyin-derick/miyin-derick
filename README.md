@@ -1,4 +1,4 @@
-# 诸葛远鹏
+# miyin-derick
 
 Web 前端 / 全栈开发，主要使用 TypeScript、React、Next.js 和 Node.js。
 
