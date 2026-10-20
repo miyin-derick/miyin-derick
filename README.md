@@ -9,6 +9,8 @@ Web 前端 / 全栈开发，主要使用 TypeScript、React、Next.js 和 Node.j
 - **码成仝官网**：负责官网前后端开发与内容管理，接入 Payload CMS、PostgreSQL 和表单审核流程；实现站内文档检索问答，处理模型接口的参数校验、限流与超时。
 - **Kith Inn / 街坊味**：参与商户菜单管理小程序的需求梳理、原型设计、开发与接口联调，覆盖菜品库、周菜单编排、历史菜单复用和菜单文字复制。
 
+相关协作记录：[菜单 API 联调](https://github.com/code-for-people-2026/cfp-mono/pull/327) · [菜品管理迭代](https://github.com/code-for-people-2026/cfp-mono/pull/377) · [测试店铺与成员权限](https://github.com/code-for-people-2026/cfp-mono/pull/380)。这些 PR 均由我提交并已合并。
+
 ## 公开项目
 
 ### [AI 狼人杀 · 同步观战](https://github.com/miyin-derick/langrensha)
